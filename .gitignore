@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# PyTorch model weights and caches
+*.pt
+*.pth
+
+# Ultralytics / YOLO
+runs/
+results/
+
+# Logs and reports
+*.log
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
