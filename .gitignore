@@ -19,9 +19,6 @@ dist/
 *.pt
 *.pth
 
-# Ultralytics / YOLO
-runs/
-results/
 
 # Logs and reports
 *.log
